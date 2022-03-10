@@ -1,0 +1,125 @@
+.topbar-area {
+    background: #00BFA5;
+}
+
+.money-option-area {
+    background: #00BFA5;
+}
+
+.back-to-top {
+    background: #00BFA5;
+}
+
+.back-to-top:hover {
+    background: #89f3e5;
+}
+
+.my-btn {
+    background: #00BFA5 !important;
+}
+
+.section-title .subtitle {
+    color: #00BFA5;
+}
+
+.about-us-area .about-us-video:before {
+    background: #00BFA5;
+}
+
+.about-us-area .about-us-details .btn {
+    background: #00BFA5;
+}
+
+.about-us-area .about-us-details .media.media-1 .media-left {
+    background: #00BFA5;
+}
+
+.about-us-area .about-us-details .media.media-2 .media-left {
+    background: #00BFA5;
+}
+
+.widget-list li:hover a {
+    color: #89f3e5;
+}
+
+
+
+.service-area{
+    background-color: #fcfcfc !important;
+}
+
+.single-service:hover {
+    background: #00BFA5;
+}
+
+.social-area li a:hover {
+    background: #fff;
+    color: #00BFA5 !important;
+}
+
+ 
+.navbar-area {
+    z-index: 100;
+}
+
+.navbar-area .nav-container .navbar-collapse .navbar-nav li:hover a {
+    color: #00BFA5;
+}
+.navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children .sub-menu li:hover {
+    background: #00BFA5;
+}
+
+.input-title{
+    color: #00BFA5 !important;
+}
+
+.signin-signup-popup {
+    background: #fcfcfc;
+}
+
+.body-overlay{
+    cursor: default !important;
+}
+
+.sign-up-area{
+    margin-bottom: 150px;
+    border-bottom: 1px solid #ccc;
+}
+
+.sign-up-area .media .media-left i {
+    color: #00BFA5;
+}
+
+.sign-up-area form button {
+    color: #00BFA5;
+}
+
+.footer-area{
+    padding: 75px 0 57px;
+}
+
+.single-service{
+    min-height: 400px !important;
+}
+
+.service-details{
+    min-height: 250px !important;
+}
+
+/*input and button type focus outline disable*/
+input[type=text]:focus,
+input[type=email]:focus,
+input[type=url]:focus,
+input[type=password]:focus,
+input[type=search]:focus,
+input[type=tel]:focus,
+input[type=number]:focus,
+textarea:focus,
+input[type=button]:focus,
+input[type=reset]:focus,
+input[type=submit]:focus,
+select:focus {
+  outline: none;
+  box-shadow: none;
+  border: none;
+}
